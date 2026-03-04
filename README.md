@@ -1,11 +1,3 @@
-# Regular-Expression-Matching
-Absolutely! Here's a clear **README** and **notes** explaining the logic behind the solution.
-
----
-
-### 📄 `README.md`
-
-```markdown
 # Regular Expression Matching
 
 This Java program implements regular expression matching between an input string `s` and a pattern `p`. The pattern supports two special characters:
